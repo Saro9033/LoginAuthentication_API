@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "sd",
+      "name": "Saravana s",
+      "pass": "sdf",
+      "email": "ssaravanan2310@gmail.com",
+      "phone": "09042338199",
+      "country": "India",
+      "address": "No.10 annai Sathya nagar ayyemppettai Kanchipuram"
+    },
+    {
+      "id": "saravanan",
+      "name": "Saravanan",
+      "pass": "sss",
+      "email": "ssaravanan2310@gmail.com",
+      "phone": "+919042338199",
+      "country": "India",
+      "address": "No.10 annai Sathya nagar ayyemppettai Kanchipuram"
+    }
+  ]
+}
